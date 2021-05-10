@@ -1,22 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+     <iframe src="https://search-long-ru-elasti-qcb6r2dze0ci-37hfbmnxxc4fkszky5yowia2sy.eu-west-1.es.amazonaws.com/_plugin/kibana/" height="500" width="1000"/>
       </header>
     </div>
   );
